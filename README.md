@@ -1,0 +1,2 @@
+# ALDI-Procurement-Performance-Financial-Control-Dashboard_Excel-Analytics-Portfolio
+Enterprise procurement analytics dashboard managing €61.5M spend across 130+ transactions. Features supplier scorecarding, cost savings tracking (€6.2M achieved), budget variance analysis, and executive KPI dashboards. Built with advanced Excel formulas (XLOOKUP, SUMIFS, conditional logic) for strategic sourcing decisions.
