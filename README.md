@@ -41,7 +41,7 @@ Excel-based procurement dashboard managing **€61.5M spend** with supplier scor
 ## 📧 Contact
 
 **Mohammed Kaif Ahmed**  
-MSc Strategy Management | Dublin City University
+PG Strategy Management | Dublin City University
 
 📧 kaifahmed6864@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/kaif-ahmed6864)  
